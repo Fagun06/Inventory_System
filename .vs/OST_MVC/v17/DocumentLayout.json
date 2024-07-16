@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ostad\\OST_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|d:\\ostad\\ost_mvc\\ost_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\views\\account\\forget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\account\\forget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\views\\home\\_partialequipmentassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\home\\_partialequipmentassign.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|D:\\Ostad\\OST_MVC\\ost_mvc\\models\\baseequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705E26B9-8CEF-488D-94D8-209F154CE285}|OST_MVC\\OST_MVC.csproj|solutionrelative:ost_mvc\\models\\baseequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialEquipmentAssign.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\_PartialEquipmentAssign.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Home\\_PartialEquipmentAssign.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\_PartialEquipmentAssign.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Home\\_PartialEquipmentAssign.cshtml",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAABoAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T06:59:35.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:40:37.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:01:35.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "forget.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Account\\forget.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Account\\forget.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Account\\forget.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Account\\forget.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T17:40:34.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:31:26.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "OST_MVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "OST_MVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T18:31:24.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OST_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OST_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAD4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:41:54.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseEquipment.cs",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Models\\BaseEquipment.cs",
+              "RelativeDocumentMoniker": "OST_MVC\\Models\\BaseEquipment.cs",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Models\\BaseEquipment.cs",
+              "RelativeToolTip": "OST_MVC\\Models\\BaseEquipment.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAAAGQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T04:35:56.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Ostad\\OST_MVC\\OST_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "OST_MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Ostad\\OST_MVC\\OST_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "OST_MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T03:41:59.539Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/JqueryUI/jquery-ui.min.css" rel="stylesheet" />
+
+    @Scripts.Render("~/bundles/jquery")
+
+    <script src="~/Scripts/JqueryUI/jquery-ui.min.js"></script>
+
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/modernizr")
+
+    <style>
+        #dvLeftBar ul {
+            padding: 5px 5px;
+        }
+
+            #dvLeftBar ul li {
+                padding: 5px 5px;
+                border: 1px solid chartreuse;
+                list-style: none;
+            }
+    </style>
+
+    <script>
+        var GlobalMsg = "@ViewBag.OperationResult";
+
+        $(document).ready(function () {
+
+            if (GlobalMsg != "") {
+
+                $('#spnGlobalPartialMsg').html(GlobalMsg);
+
+                $("#dvGolbalPartialMsg").dialog({
+                    resizable: false,
+                    modal: true,
+                });
+            }
+            
+        })
+    </script>
+</head>
+<body>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark">
+        <div class="container">
+            @Html.ActionLink("Application name", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+            <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" title="Toggle navigation" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav flex-grow-1">
+                    <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                </ul>
+            </div>
+            <div style="position:absolute; color:blue; right:5px; height:100%; width:150px">
+                @{
+
+                    if (Session["User"] != null)
+                    {
+                        <span>User:@Session["User"]</span>
+                    }
+                }
+                @using (Html.BeginForm("Logout", "Account", FormMethod.Post))
+                {
+                    <input type="submit" name="btnLogout" value="Logout" />
+                }
+            </div>
+        </div>
+    </nav>
+    <div id="dvLeftBar" style="border:1px solid red; width:200px; position:fixed; background:#00ff21;left:0px; top:55px; bottom:0px;">
+        <div>
+            <ul>
+                <li>@Html.ActionLink("Home", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("About", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("Dashboard", "Dashboard", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+            </ul>
+        </div>
+
+    </div>
+
+    <div id="dvContentwrapper" style="border:1px solid red; position:fixed;left:200px; top:55px; bottom:0px;right:0px; overflow:auto">
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+            </footer>
+        </div>
+
+    </div>
+
+    @Html.Partial("~/Views/Common/_PartialGlobalMsg.cshtml")
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
